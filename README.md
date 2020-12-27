@@ -1,2 +1,2 @@
 # testing
-repo voor het vak testing
+een backup repo voor het vak testing
